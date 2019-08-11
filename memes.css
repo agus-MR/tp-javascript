@@ -1,0 +1,12 @@
+:root {
+    font-family: Comic;
+    font-size: 30px;
+}
+
+* {
+    font:Comic;
+}
+
+#meme-canvas {
+    width: 600px;
+}
